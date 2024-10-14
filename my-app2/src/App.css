@@ -1,0 +1,47 @@
+.main {
+  text-align: center;
+  background-color: #282c34;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.kpi {
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+  width: 22.8%;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgb(241, 248, 250);
+  color: black;
+}
+.values {
+  color: #282c34;
+  padding: 10px;
+  margin: 10px;
+}
+.left {
+  float: left;
+}
+.middle {
+  float: middle;
+}
+.right {
+  float: right;
+}
+@media only screen and (max-width: 1024px) and (min-width: 415px) {
+  .kpi {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .kpi {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+  }
+}

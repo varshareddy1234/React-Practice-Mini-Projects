@@ -1,0 +1,37 @@
+#submit {
+  float: right;
+  width: 20%;
+  height: 10%;
+  background-color: rgba(253, 243, 102, 0.308);
+}
+#reset {
+  float: left;
+  width: 20%;
+  height: 10%;
+  background-color: rgba(253, 243, 102, 0.308);
+}
+body {
+  background-color: azure;
+}
+h3 {
+  text-align: center;
+}
+.form-wrapper,
+.table-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.form {
+  border: solid black;
+  padding: 30px;
+  line-height: 300%;
+  width: 20%;
+  height: 300px;
+  text-align: left;
+}
+.App-header {
+  font-size: 18px;
+  color: rgb(26, 23, 23);
+  padding: 12px 20px;
+  margin: 125px 10px 10px 10px;
+}

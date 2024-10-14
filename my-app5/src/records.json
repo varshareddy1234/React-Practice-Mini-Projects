@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Executive",
+    "content": [
+      {
+        "a": "Copart One",
+        "b": "Auction One",
+        "c": "NPA One"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Operations",
+    "content": [
+      {
+        "a": "Auction",
+        "b": "Ops Subhaul",
+        "c": "Ops Metrics"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sales",
+    "content": [
+      {
+        "a": "Seller KPI's",
+        "b": "BluCar KPI's",
+        "c": "TE Ops Metrics"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1d5ab9;
+  padding: 10px 20px;
+  color: white;
+}
+.navbar-right {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.navbar-lang {
+  margin-right: 20px;
+  font-size: 15px;
+}
+.navbar-user img {
+  height: 30px;
+  border-radius: 50%;
+}
+.navbar-title {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  font-weight: bold;
+}

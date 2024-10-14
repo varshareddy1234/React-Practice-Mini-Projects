@@ -1,0 +1,14 @@
+.titlefortooltip {
+  font-size: medium;
+  position: absolute;
+  right: 40px;
+  top: 55px;
+  padding: 12px;
+  max-width: 300px;
+  border-radius: 5px;
+  color: gray;
+  background-color: aliceblue;
+  -webkit-box-shadow: 2px 3px 10px 0px #515861;
+  -moz-box-shadow: 2px 3px 10px 0px #515861;
+  box-shadow: 2px 3px 10px 0px #515861;
+}
